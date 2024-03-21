@@ -1,8 +1,1 @@
-# Structure C #
-
-```
-Mdl_t - la structure du Model avec les poids
-
-Implémentation des Couches en Cuda dans /impl/insts
-
-```
+Lien vers la theorie de la Hessienne : https://github.com/VadimKashtanov/fichier_dL_ddL
